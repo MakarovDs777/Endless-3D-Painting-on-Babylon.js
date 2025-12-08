@@ -4,7 +4,7 @@
 
 [Endless painting (version 0) | Babylon.js Playground](http://playground.babylonjs.com/#T63RE2#0)
 
-Но теперь нужно исправить курсор что-бы при рисование на плоскости не дублировалось дважды, и общее свободное рисование, и зеркальное дублирование нарисованого рисунка.
+Но теперь нужно исправить курсор что-бы при рисование на плоскости не было зеркального дублирования нарисованого рисунка общего рисования.
 
 [Endless painting (version 1) | Babylon.js Playground](https://playground.babylonjs.com/#J3V6QG#0)
 
@@ -32,7 +32,7 @@
 
 [Endless Painting (version 7 - Endless color drawing when you draw cameras fixed) | Babylon.js Playground](https://playground.babylonjs.com/#70VPXV#0)
 
-Ну всё мы получили бесконечую рисовалку осталось лишь внести финальный штрих ввиде автоматического художника который пытается случайно рисвоать точками красок на бесконченое прцоедурной плоскости.
+Ну всё мы получили бесконечую рисовалку осталось лишь внести финальный штрих ввиде автоматического художника который пытается случайно рисовать точками красок на бесконечной процедурной плоскости.
 
 [Endless Painting (version 8 - Endless automatic dot drawing) | Babylon.js Playground](https://playground.babylonjs.com/#YP47CQ#0)
 
