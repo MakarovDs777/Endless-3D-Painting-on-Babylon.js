@@ -4,7 +4,7 @@
 
 [Endless painting (version 0) | Babylon.js Playground](http://playground.babylonjs.com/#T63RE2#0)
 
-Но теперь нужно исправить курсор что-бы при рисование на плоскости не дублировалось дважды, и мегарисование, и микрорисунок.
+Но теперь нужно исправить курсор что-бы при рисование на плоскости не дублировалось дважды, и общее свободное рисование, и зеркальное дублирование нарисованого рисунка.
 
 [Endless painting (version 1) | Babylon.js Playground](https://playground.babylonjs.com/#J3V6QG#0)
 
@@ -12,7 +12,7 @@
 
 [Endless painting (version 2 - fixed cursor) | Babylon.js Playground](https://playground.babylonjs.com/#1TNB7E#0)
 
-Теперь нужно отменить дублирование рисвоание на все плоскости а сделать только одно рисвоание свободное.
+Теперь нужно отменить дублирование рисование на все плоскости а сделать только одно рисование свободное.
 
 [Endless painting (version 3 - Endless drawing map without mirroring) | Babylon.js Playground](https://playground.babylonjs.com/#FN1IF4#0)
 
