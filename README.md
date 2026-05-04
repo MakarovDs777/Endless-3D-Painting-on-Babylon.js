@@ -1,6 +1,8 @@
 # Endless-Painting-on-Babylon.js
 
-Не нашел создал бесконечная процедурно генерируемая плоскость для рисования.
+Нашел в Babylon.search рисовалку на невидимой плсокости [test painting | Babylon.js Playground](https://playground.babylonjs.com/#W8C73X#1) не знаю автора но я решил развить эту идею, и дальше, и создать бесконечную рисовалку вот что получилось в итоге:
+
+Не нашел - создал! Бесконечная процедурно генерируемая плоскость для рисования.
 
 [Endless painting (version 0) | Babylon.js Playground](http://playground.babylonjs.com/#T63RE2#0)
 
