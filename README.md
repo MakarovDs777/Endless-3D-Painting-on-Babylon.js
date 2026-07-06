@@ -40,6 +40,6 @@
 
 Уберем точки сделем линии случайной длины отрезка, и случайных траекторий.
 
-[Endless Painting (version 9 - Endless automatic random line drawing) | Babylon.js Playground](https://playground.babylonjs.com/#CEJLT7#0)
+[Endless Painting (version 9 - Endless automatic random line drawing) | Babylon.js Playground](https://playground.babylonjs.com/#CEJLT7#1)
 
 Ну вот и всё! Предлагайте ваши дальнейшие идеии в дискуссиях. И я спрограммирую.
